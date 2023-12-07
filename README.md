@@ -6,9 +6,9 @@ This project is dedicated to exploring and managing YouTube data efficiently.
     this platform provides the tools you need.
 
     **Key Features:**
-    - Data Collection: Utilize API integration and Python scripting for efficient data retrieval.
-    - Database Management: Seamlessly store and manage data using MongoDB and MySQL.
-    - Analytics and Insights: Analyze video details, viewer engagement, and more.
+    - Data Collection        : Utilize API integration and Python scripting for efficient data retrieval.
+    - Database Management    : Seamlessly store and manage data using MongoDB and MySQL.
+    - Analytics and Insights : Analyze video details, viewer engagement, and more.
 
     **Skills Acquired:**
     - Python Scripting
