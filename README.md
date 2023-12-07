@@ -18,9 +18,4 @@ This project is dedicated to exploring and managing YouTube data efficiently.
     - API Integration
     - Data Management using MongoDB and MySQL 
 
-    **Get Started:**
-    Choose "Extract and Transform" from the sidebar to begin exploring and collecting YouTube data. 
-    Dive into the various tables to view channels, playlists, videos, and comments. 
-    When you're ready, navigate to "view" the insights.
-
 *Happy exploring and analyzing!*
